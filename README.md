@@ -1,4 +1,4 @@
-#Hi there 👋
+##Hi there 👋
 
 🔭 I’m currently pursuing Computer Science and Engineering
 🌱 I’m currently learning Python Programming
